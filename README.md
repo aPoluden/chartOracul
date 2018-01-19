@@ -1,1 +1,1 @@
-# chartOracul Oracules everything
+# chartOracul Oracules every chart
